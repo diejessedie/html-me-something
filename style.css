@@ -30,3 +30,7 @@ article {
     font-family: Helvetica, Arial, sans-serif;
     font-style: italic;
 }
+
+footer p {
+    color: white
+}
