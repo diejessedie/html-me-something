@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+header {
+    background-color: darkslategrey;
+}
+
+main {
+   background-color: coral; 
+}
+
+#title {
+    text-align: center;
+}
+
+#logo {
+    margin-left: 70px;
+}
+
+article {
+    border: 2px solid black
+}
